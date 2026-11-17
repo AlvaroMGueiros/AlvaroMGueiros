@@ -94,10 +94,10 @@ Gosto de investigar problemas, entender como as peças de um sistema se conectam
 > <br/>`NestJS` `TypeScript` `PostgreSQL/PostGIS` `Angular` `React Native` · [aplicação publicada](https://homeeasy-bd496.web.app) · [repositório](https://github.com/AlvaroMGueiros/HomeEasy-1)
 
 <p align="center">
-  <a href="https://github.com/AlvaroMGueiros/kanban-api"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-1-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-1.svg" /><img width="49%" alt="kanban-api" src="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-1-dark.svg" /></picture></a>
-  <a href="https://github.com/AlvaroMGueiros/HomeEasy-Mobile"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-2-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-2.svg" /><img width="49%" alt="HomeEasy-Mobile" src="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-2-dark.svg" /></picture></a>
-  <a href="https://github.com/AlvaroMGueiros/Korp_Teste_AlvaroMiguel"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-3-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-3.svg" /><img width="49%" alt="Korp_Teste_AlvaroMiguel" src="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-3-dark.svg" /></picture></a>
-  <a href="https://github.com/AlvaroMGueiros/fullstack-integration-challenge"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-4-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-4.svg" /><img width="49%" alt="fullstack-integration-challenge" src="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-4-dark.svg" /></picture></a>
+  <a href="https://github.com/AlvaroMGueiros/kanban-api"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-1-dark.svg?v=2" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-1.svg?v=2" /><img width="49%" alt="kanban-api" src="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-1-dark.svg?v=2" /></picture></a>
+  <a href="https://github.com/AlvaroMGueiros/HomeEasy-Mobile"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-2-dark.svg?v=2" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-2.svg?v=2" /><img width="49%" alt="HomeEasy-Mobile" src="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-2-dark.svg?v=2" /></picture></a>
+  <a href="https://github.com/AlvaroMGueiros/Korp_Teste_AlvaroMiguel"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-3-dark.svg?v=2" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-3.svg?v=2" /><img width="49%" alt="Korp_Teste_AlvaroMiguel" src="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-3-dark.svg?v=2" /></picture></a>
+  <a href="https://github.com/AlvaroMGueiros/fullstack-integration-challenge"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-4-dark.svg?v=2" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-4.svg?v=2" /><img width="49%" alt="fullstack-integration-challenge" src="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/repo-4-dark.svg?v=2" /></picture></a>
 </p>
 
 <br/>
@@ -131,8 +131,8 @@ Gosto de investigar problemas, entender como as peças de um sistema se conectam
 <img src="assets/h-estatisticas.svg" width="100%" alt="06. estatisticas()" />
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/stats-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/stats.svg" /><img width="49%" alt="Estatísticas" src="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/stats-dark.svg" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/langs-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/langs.svg" /><img width="49%" alt="Linguagens" src="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/langs-dark.svg" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/stats-dark.svg?v=2" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/stats.svg?v=2" /><img width="49%" alt="Estatísticas" src="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/stats-dark.svg?v=2" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/langs-dark.svg?v=2" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/langs.svg?v=2" /><img width="49%" alt="Linguagens" src="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/langs-dark.svg?v=2" /></picture>
 </p>
 
 <p align="center">
@@ -145,9 +145,9 @@ Gosto de investigar problemas, entender como as peças de um sistema se conectam
 <img src="assets/h-contribuicoes.svg" width="100%" alt="07. contribuicoes()" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/code-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/code-contribution-graph.svg" />
-  <img width="100%" alt="Contribuições do último ano em hexadecimal" src="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/code-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/code-contribution-graph-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/code-contribution-graph.svg?v=2" />
+  <img width="100%" alt="Contribuições do último ano em hexadecimal" src="https://raw.githubusercontent.com/AlvaroMGueiros/AlvaroMGueiros/output/code-contribution-graph-dark.svg?v=2" />
 </picture>
 
 <!-- ============ exit ============ -->
