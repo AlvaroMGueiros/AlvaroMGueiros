@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alvaromiguel01g/"><img src="https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/alvaro-miguel01g/"><img src="https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
   <a href="mailto:alvaromgueiros@gmail.com"><img src="https://img.shields.io/badge/e--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=F0883E" alt="E-mail" /></a>
   <a href="https://homeeasy-bd496.web.app"><img src="https://img.shields.io/badge/homeeasy-0D1117?style=for-the-badge&logo=firebase&logoColor=F0883E" alt="HomeEasy" /></a>
   <img src="https://img.shields.io/badge/garanhuns,_pe-0D1117?style=for-the-badge&logo=googlemaps&logoColor=D2A8FF" alt="Garanhuns, PE" />
