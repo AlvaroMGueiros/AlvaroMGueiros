@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="348" viewBox="0 0 570 348">
+<style>
+text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:14px;white-space:pre}
+.ln{opacity:0;animation:ln .35s ease-out forwards}
+@keyframes ln{from{opacity:0;transform:translateX(-5px)}to{opacity:1;transform:none}}
+</style>
+<rect x="1" y="1" width="568" height="346" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 H557 a12 12 0 0 1 12 12 V40 H1Z" fill="#161b22"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="40" cy="20" r="6" fill="#febc2e"/><circle cx="58" cy="20" r="6" fill="#28c840"/>
+<rect x="1" y="40" width="568" height="34" fill="#161b22"/>
+<rect x="1" y="40" width="200" height="34" fill="#0d1117"/><rect x="1" y="40" width="200" height="2" fill="#f0883e"/>
+<text x="16" y="62" fill="#f0883e" font-size="12" font-weight="700">J</text><text x="32" y="62" fill="#c9d1d9" font-size="13">AlvaroMiguel.java</text>
+<text x="220" y="62" fill="#8b949e" font-size="13">application.yml</text>
+<rect x="1" y="74" width="568" height="1" fill="#30363d"/>
+<text x="32" y="104" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6">1</text>
+<text x="48" y="104" class="ln" style="animation-delay:0.30s" xml:space="preserve"><tspan fill="#ff7b72">public class </tspan><tspan fill="#f0883e">AlvaroMiguel</tspan><tspan fill="#c9d1d9"> {</tspan></text>
+<text x="32" y="127" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6">2</text>
+<text x="48" y="127" class="ln" style="animation-delay:0.48s" xml:space="preserve"><tspan fill="#c9d1d9">  </tspan><tspan fill="#f0883e">String</tspan><tspan fill="#58a6ff"> cargo</tspan><tspan fill="#c9d1d9"> = </tspan><tspan fill="#a5d6ff">"Software Engineer"</tspan><tspan fill="#c9d1d9">;</tspan></text>
+<text x="32" y="150" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6">3</text>
+<text x="48" y="150" class="ln" style="animation-delay:0.66s" xml:space="preserve"><tspan fill="#c9d1d9">  </tspan><tspan fill="#f0883e">String</tspan><tspan fill="#58a6ff"> foco</tspan><tspan fill="#c9d1d9"> = </tspan><tspan fill="#a5d6ff">"Backend &amp; Full Stack"</tspan><tspan fill="#c9d1d9">;</tspan></text>
+<text x="32" y="173" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6">4</text>
+<text x="48" y="173" class="ln" style="animation-delay:0.84s" xml:space="preserve"><tspan fill="#c9d1d9">  </tspan><tspan fill="#f0883e">String</tspan><tspan fill="#58a6ff"> local</tspan><tspan fill="#c9d1d9"> = </tspan><tspan fill="#a5d6ff">"Garanhuns, PE"</tspan><tspan fill="#c9d1d9">;</tspan></text>
+<text x="32" y="196" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6">5</text>
+<text x="48" y="196" class="ln" style="animation-delay:1.02s" xml:space="preserve"><tspan fill="#c9d1d9">  </tspan><tspan fill="#f0883e">List</tspan><tspan fill="#c9d1d9">&lt;</tspan><tspan fill="#f0883e">String</tspan><tspan fill="#c9d1d9">&gt;</tspan><tspan fill="#58a6ff"> stack</tspan><tspan fill="#c9d1d9"> = </tspan><tspan fill="#f0883e">List</tspan><tspan fill="#c9d1d9">.of(</tspan></text>
+<text x="32" y="219" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6">6</text>
+<text x="48" y="219" class="ln" style="animation-delay:1.20s" xml:space="preserve"><tspan fill="#c9d1d9">    </tspan><tspan fill="#a5d6ff">"Java"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"Spring"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"NestJS"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+<text x="32" y="242" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6">7</text>
+<text x="48" y="242" class="ln" style="animation-delay:1.38s" xml:space="preserve"><tspan fill="#c9d1d9">    </tspan><tspan fill="#a5d6ff">"C#/.NET"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"React"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"TS"</tspan><tspan fill="#c9d1d9">);</tspan></text>
+<text x="32" y="265" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6">8</text>
+<text x="48" y="265" class="ln" style="animation-delay:1.56s" xml:space="preserve"><tspan fill="#c9d1d9">  </tspan><tspan fill="#ff7b72">int</tspan><tspan fill="#58a6ff"> anosEmProducao</tspan><tspan fill="#c9d1d9"> = </tspan><tspan fill="#d2a8ff">3</tspan><tspan fill="#c9d1d9">;</tspan></text>
+<text x="32" y="288" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6">9</text>
+<text x="48" y="288" class="ln" style="animation-delay:1.74s" xml:space="preserve"><tspan fill="#c9d1d9">  </tspan><tspan fill="#ff7b72">boolean</tspan><tspan fill="#58a6ff"> abertoAColaborar</tspan><tspan fill="#c9d1d9"> = </tspan><tspan fill="#d2a8ff">true</tspan><tspan fill="#c9d1d9">;</tspan></text>
+<text x="32" y="311" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6">10</text>
+<text x="48" y="311" class="ln" style="animation-delay:1.92s" xml:space="preserve"><tspan fill="#c9d1d9">}</tspan></text>
+</svg>
