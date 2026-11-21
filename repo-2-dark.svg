@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150">
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;white-space:pre}.f{opacity:0;animation:f .4s ease-out forwards}@keyframes f{to{opacity:1}}</style>
+<rect x="1" y="1" width="438" height="148" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="38" font-size="15" font-weight="700" fill="#f0883e">HomeEasy-Mobile</text>
+<text x="24" y="66" font-size="13" fill="#c9d1d9">Aplicativo mobile Android e iOS do Home Easy,</text>
+<text x="24" y="86" font-size="13" fill="#c9d1d9">desenvolvido com React Native, Expo e</text>
+<text x="24" y="106" font-size="13" fill="#c9d1d9">TypeScript e integrado à API NestJS.</text>
+<circle cx="30" cy="127" r="5" fill="#3178c6"/><text x="42" y="131" font-size="13" fill="#8b949e">TypeScript</text>
+<text x="416" y="131" font-size="13" text-anchor="end" fill="#8b949e">★ 0   ⑂ 0</text>
+</svg>

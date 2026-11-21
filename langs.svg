@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="250" viewBox="0 0 440 250">
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;white-space:pre}.f{opacity:0;animation:f .4s ease-out forwards}@keyframes f{to{opacity:1}}</style>
+<rect x="1" y="1" width="438" height="248" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="40" font-size="15" font-weight="700" fill="#bc4c00">$ linguagens --top</text>
+<clipPath id="bar"><rect x="24" y="58" width="392" height="10" rx="5"/></clipPath><g clip-path="url(#bar)"><rect x="24.0" y="58" width="272.9" height="10" fill="#3178c6"/><rect x="296.9" y="58" width="71.3" height="10" fill="#b07219"/><rect x="368.2" y="58" width="22.2" height="10" fill="#f1e05a"/><rect x="390.4" y="58" width="9.7" height="10" fill="#7355dd"/><rect x="400.1" y="58" width="7.9" height="10" fill="#e34c26"/><rect x="408.0" y="58" width="7.1" height="10" fill="#663399"/></g>
+<g class="f" style="animation-delay:0.00s"><circle cx="30" cy="95" r="5" fill="#3178c6"/><text x="44" y="100" font-size="14" fill="#24292f">TypeScript</text><text x="416" y="100" font-size="14" text-anchor="end" fill="#57606a">69.6%</text></g>
+<g class="f" style="animation-delay:0.12s"><circle cx="30" cy="119" r="5" fill="#b07219"/><text x="44" y="124" font-size="14" fill="#24292f">Java</text><text x="416" y="124" font-size="14" text-anchor="end" fill="#57606a">18.2%</text></g>
+<g class="f" style="animation-delay:0.24s"><circle cx="30" cy="143" r="5" fill="#f1e05a"/><text x="44" y="148" font-size="14" fill="#24292f">JavaScript</text><text x="416" y="148" font-size="14" text-anchor="end" fill="#57606a">5.7%</text></g>
+<g class="f" style="animation-delay:0.36s"><circle cx="30" cy="167" r="5" fill="#7355dd"/><text x="44" y="172" font-size="14" fill="#24292f">C#</text><text x="416" y="172" font-size="14" text-anchor="end" fill="#57606a">2.5%</text></g>
+<g class="f" style="animation-delay:0.48s"><circle cx="30" cy="191" r="5" fill="#e34c26"/><text x="44" y="196" font-size="14" fill="#24292f">HTML</text><text x="416" y="196" font-size="14" text-anchor="end" fill="#57606a">2.0%</text></g>
+<g class="f" style="animation-delay:0.60s"><circle cx="30" cy="215" r="5" fill="#663399"/><text x="44" y="220" font-size="14" fill="#24292f">CSS</text><text x="416" y="220" font-size="14" text-anchor="end" fill="#57606a">1.8%</text></g>
+</svg>
