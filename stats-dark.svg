@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="250" viewBox="0 0 440 250">
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;white-space:pre}.f{opacity:0;animation:f .4s ease-out forwards}@keyframes f{to{opacity:1}}</style>
+<rect x="1" y="1" width="438" height="248" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="40" font-size="15" font-weight="700" fill="#f0883e">$ git stats --author=AlvaroMGueiros</text>
+<g class="f" style="animation-delay:0.00s"><text x="24" y="78" font-size="14" fill="#8b949e">commits no último ano</text><text x="416" y="78" font-size="15" font-weight="700" text-anchor="end" fill="#ffffff">94</text></g>
+<g class="f" style="animation-delay:0.15s"><text x="24" y="106" font-size="14" fill="#8b949e">contribuições no último ano</text><text x="416" y="106" font-size="15" font-weight="700" text-anchor="end" fill="#ffffff">103</text></g>
+<g class="f" style="animation-delay:0.30s"><text x="24" y="134" font-size="14" fill="#8b949e">pull requests</text><text x="416" y="134" font-size="15" font-weight="700" text-anchor="end" fill="#ffffff">10</text></g>
+<g class="f" style="animation-delay:0.45s"><text x="24" y="162" font-size="14" fill="#8b949e">repositórios públicos</text><text x="416" y="162" font-size="15" font-weight="700" text-anchor="end" fill="#ffffff">21</text></g>
+<g class="f" style="animation-delay:0.60s"><text x="24" y="190" font-size="14" fill="#8b949e">estrelas recebidas</text><text x="416" y="190" font-size="15" font-weight="700" text-anchor="end" fill="#ffffff">0</text></g>
+<g class="f" style="animation-delay:0.75s"><text x="24" y="218" font-size="14" fill="#8b949e">seguidores</text><text x="416" y="218" font-size="15" font-weight="700" text-anchor="end" fill="#ffffff">14</text></g>
+</svg>
